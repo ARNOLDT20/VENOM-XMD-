@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=THE%20VENOM-XMD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=REMEMBER+TO;STAR+AND;FORK;LUV;BYTE-V2;-XMD;REPO" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=REMEMBER+TO;STAR+AND;FORK;THE;VENOM;-XMD;REPO" alt="Typing SVG" /></a>
   </p>
 ```
 
 <div align="center">
-  <a href="https://github.com/ARNOLDT20"/followers"><img title="Followers" src="https://img.shields.io/github/followers/VENOM-XMD-?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/ARNOLDT20"/followers"><img title="Followers" src="https://img.shields.io/github/followers/ARNOLDT20/VENOM-XMD-?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/ARNOLDT20/VENOM-XMD-"/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ARNOLDT20/VENOM-XMD-?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
   <a href="https://github.com/ARNOLDT20/VENOM-XMD-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ARNOLDT20/VENOM-XMD-?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/ARNOLDT20/VENOM-XMD-/"><img title="Size" src="https://img.shields.io/github/repo-size/ARNOLDT20/VENOM-XMD-?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?usernamer=toxiclover/TOXIC-LOVER-V2-XMD&label=VISITORS&style=flat-square&color=0002FF" />
+  <img src="https://komarev.com/ghpvc/?usernamer=ARNOLDT20/VENOM-XMD&label=VISITORS&style=flat-square&color=0002FF" />
 </p>
 
  LATEST UPDATES 7.007.738.
@@ -36,7 +36,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=LVBT-V2+XMD;DEPLOYMENT+STEPS"alt="Animated
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=TVENM+XMD;DEPLOYMENT+STEPS"alt="Animated
 
 <div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
   
@@ -55,7 +55,7 @@
 
 ### <img src="https://github.com/ARNOLDT20/VENOM-XMD-/blob/main/assets/keyicon.gif?raw=true" width="25"/> 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=LVBT-V2+XMD;SESSION+ID+LINKS"alt="Animated
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=TVENM+XMD;SESSION+ID+LINKS"alt="Animated
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
   
@@ -109,7 +109,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=LUVc+BYTE-v2-XMD;BOT+FEATURES;ANTIDELETE;ANTIVIEWONCE;ANTILINK;ALL+PLATFORM+DL;AND+ETC:AT+2025"alt="Animated
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=THE+VENOM-XMD;BOT+FEATURES;ANTIDELETE;ANTIVIEWONCE;ANTILINK;ALL+PLATFORM+DL;AND+ETC:AT+2025"alt="Animated
 
 <div align="center">
   <img src="https://github.com/ARNOLDT20/VENOM-XMD-/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
