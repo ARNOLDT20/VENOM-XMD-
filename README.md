@@ -7,10 +7,10 @@
 
 <div align="center">
   <a href="https://github.com/ARNOLDT20"/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovertoxic?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/ARNOLDT20/LUVBYTE"/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ARNOLDT20/LUVBYTE?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/ARNOLDT20/LUVBYTE/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ARNOLDT20/LUVBYTE?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/ARNOLDT20/LUVBYTE/"><img title="Size" src="https://img.shields.io/github/repo-size/ARNOLDT20/LUVBYTE?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
-  <a href="https://github.com/ARNOLDT20/LUVBYTE/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+  <a href="https://github.com/ARNOLDT20/VENOM-XMD-"/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ARNOLDT20/LUVBYTE?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/ARNOLDT20/VENOM-XMD-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ARNOLDT20/LUVBYTE?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/ARNOLDT20/VENOM-XMD-/"><img title="Size" src="https://img.shields.io/github/repo-size/ARNOLDT20/LUVBYTE?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/ARNOLDT20/VENOM-XMD-/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
 <p align="center">
@@ -29,10 +29,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/ARNOLDT20/LUVBYTE/blob/main/assets/divider.gif?raw=true" width="100%"/>
+  <img src="https://github.com/ARNOLDT20/VENOM-XMD-/blob/main/assets/divider.gif?raw=true" width="100%"/>
 </div>
 <div align="center">
-  <img src="https://github.com/ARNOLDT20/LUVBYTED/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
+  <img src="https://github.com/ARNOLDT20/VENOM-XMD-/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
 </div>
 
 <p align="center">
@@ -40,7 +40,7 @@
 
 <div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
   
-### <img src="https://github.com/ARNOLDT20/LUVBYTE/blob/main/assets/forkicon.gif?raw=true" width="25"/> 1. Fork This Repository
+### <img src="https://github.com/ARNOLDT20/VENOM-XMD-/blob/main/assets/forkicon.gif?raw=true" width="25"/> 1. Fork This Repository
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
   <p style="color: #00ffff;">First star & Fork repo using button Below !</p>
@@ -53,7 +53,7 @@
 
 <div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
 
-### <img src="https://github.com/ARNOLDT20/LUVBYTE/blob/main/assets/keyicon.gif?raw=true" width="25"/> 
+### <img src="https://github.com/ARNOLDT20/VENOM-XMD-/blob/main/assets/keyicon.gif?raw=true" width="25"/> 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=LVBT-V2+XMD;SESSION+ID+LINKS"alt="Animated
   
@@ -74,7 +74,7 @@
   
   ---
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
-    <img src="https://github.com/ARNOLDT20/LUVBYTE/blob/main/assets/warning.gif?raw=true" width="15"/> 
+    <img src="https://github.com/ARNOLDT20/VENOM-XMD-/blob/main/assets/warning.gif?raw=true" width="15"/> 
     Connection issues may require VPN activation
   </p>
 </div>
@@ -82,7 +82,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/ARNOLDT20/LUVBYTE/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+  <img src="https://github.com/ARNOLDT20/VENOM-XMD-/blob/main/assets/techwave.gif?raw=true" width="80%"/>
 </div>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=LUV+BYTE-V2+XMD;DEPLOYMENT+SIGHT"alt="Animated
@@ -90,29 +90,29 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/ARNOLDT20/LUVBYTE" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/ARNOLDT20/VENOM-XMD-" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
       <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=ARNOLDT20/LUVBYTE" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=ARNOLDT20/VENOM-XMD-" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://render.com/deploy?repo=https://github.com/ARNOLDT20/LUVBYTE" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
+      <td><a href="https://render.com/deploy?repo=https://github.com/ARNOLDT20/VENOM-XMD-" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
       <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github.com/ARNOLDT20/LUVBYTE/blob/main/assets/techwave.gif?raw=true" width="100%"/>
+  <img src="https://github.com/ARNOLDT20/VENOM-XMD-/blob/main/assets/techwave.gif?raw=true" width="100%"/>
 </div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=LUVc+BYTE-v2-XMD;BOT+FEATURES;ANTIDELETE;ANTIVIEWONCE;ANTILINK;ALL+PLATFORM+DL;AND+ETC:AT+2025"alt="Animated
 
 <div align="center">
-  <img src="https://github.com/ARNOLDT20/LUVBYTE/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
+  <img src="https://github.com/ARNOLDT20/VENOM-XMD-/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
 </div>
 
 <div align="center">
@@ -127,7 +127,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/ARNOLDT20/LUVBYTE-MD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
+  <img src="https://github.com/ARNOLDT20/VENOM-XMD-/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
 </div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=WARNING;" alt="Typing SVG" /></a>
@@ -139,15 +139,15 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/ARNOLDT20/LUVBYTE/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
+  <img src="https://github.com/ARNOLDT20/VENOM-XMD-/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
 </div>
-    <a href="https://github.com/ARNOLDT20/LUVBYTE-V2-XMD"
+    <a href="https://github.com/ARNOLDT20/VENOM-XMD-"
     <img src="https://github-readme-stats.vercel.app/api?username=ARNOLDT20&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/ARNOLDT20/LUVBYTE/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
+  <img src="https://github.com/ARNOLDT20/VENOM-XMD-/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=sir;T20;BOT" alt="Typing SVG" /></a>
@@ -160,7 +160,7 @@
 ```
 
 <div align="center">
-  <img src="https://github.com/ARNOLDT20/LUVBYTE/blob/main/assets/endwave.gif?raw=true" width="100%"/>
+  <img src="https://github.com/ARNOLDT20/VENOM-XMD-/blob/main/assets/endwave.gif?raw=true" width="100%"/>
 </div>
 
 <p align="center">
