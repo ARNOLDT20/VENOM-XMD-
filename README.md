@@ -21,7 +21,7 @@
 
 ---
 <div align="center">
-  <img src="https://imgur.com/a/6rha8KW#NTlYPEx.PNG" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://files.catbox.moe/1lhfeh.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 <div align="center">
