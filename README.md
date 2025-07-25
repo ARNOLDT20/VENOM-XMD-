@@ -169,5 +169,5 @@
   </a>
 </p>[
 <div align="center">
-  <img src="https://files.catbox.moe/a2a1c3.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://files.catbox.moe/pmh64f.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
