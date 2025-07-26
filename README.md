@@ -61,14 +61,14 @@
   
 --- 
   > **😈SIR T20 SESSION LINK (01)😈**
-  <a href='https://on-vybe.onrender.com' target="_blank">
+  <a href='https://pair.cypherx.space/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   
   <div style="height: 10px;"></div>
   
   > **🚫 SIR T20 SESSION LINK (02)😈**
-  <a href='https://on-vybe.onrender.com' target="_blank">
+  <a href='https://t20-classic-ai-pair-site.onrender.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
   
