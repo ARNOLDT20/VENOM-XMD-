@@ -150,7 +150,7 @@
   <img src="https://github.com/ARNOLDT20/VENOM-XMD-/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=sir;T20;BOT" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=sir;T20;CLASSIC" alt="Typing SVG" /></a>
   </p>
 
 ```diff
