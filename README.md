@@ -165,7 +165,7 @@
 
 <p align="center">
   <a href="https://github.com/ARNOLDT20">
-    <img title="Developer" src="https://img.shields.io/badge/Author-sir%20T20%20tech-FF00FF.svg?style=big-square&logo=github" />
+    <img title="Developer" src="https://img.shields.io/badge/Author-sir%20T20%20CLASSIC-FF00FF.svg?style=big-square&logo=github" />
   </a>
 </p>[
 <div align="center">
