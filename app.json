@@ -1,5 +1,5 @@
 {
-  "name":"T20 CLASSIC AI",
+  "name":"VENOM XMD",
   "description":"Best whatsapp bot💥 developed by sir T20 classic",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://ibb.co/q70RyBd",
@@ -65,7 +65,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"T20 CLASSIC AI",
+      "value":"VENOM XMD",
       "required":false
 
     } ,
@@ -117,7 +117,7 @@
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "3"
+    "value": "5"
   },
   "STARTING_BOT_MESSAGE":
   {
