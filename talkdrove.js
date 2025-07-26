@@ -1,11 +1,11 @@
 
 {
-    "bot-name": "T20 CLASSIC AI",
+    "bot-name": "VENOM XMD",
     "description": "Whiskey Sockets Baileys Whatsapp bot By sir bravin",
     "logo": "https://files.catbox.moe/w10gxl.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://charl/",
-    "owner-verification": "sir bravin ",  
+    "owner-verification": "sir T20 ",  
     "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. Make sure it starts with ey~  or get session id from here,  https://charle-ke.onrender.com/",
@@ -20,7 +20,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "T20 CLASSIC AI"  
+      "value": "T20 CLASSIC "  
     },    
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
