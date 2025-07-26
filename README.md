@@ -6,7 +6,7 @@
 ```
 
 <div align="center">
-  <a href="https://github.com/ARNOLDT20"/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovertoxic?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/ARNOLDT20"/followers"><img title="Followers" src="https://img.shields.io/github/followers/VENOM-XMD?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/ARNOLDT20/VENOM-XMD-"/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ARNOLDT20/VENOM-XMD-?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
   <a href="https://github.com/ARNOLDT20/VENOM-XMD-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ARNOLDT20/VENOM-XMD-?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/ARNOLDT20/VENOM-XMD-/"><img title="Size" src="https://img.shields.io/github/repo-size/ARNOLDT20/VENOM-XMD-?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
